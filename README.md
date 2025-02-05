@@ -1,6 +1,6 @@
 ![Banner Image](https://my-banner-image-link.com)
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Abu Bakkar Siddik
 ### 🚀 Frontend Developer | Aspiring Full Stack Engineer
 
 ## About Me

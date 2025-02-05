@@ -1,14 +1,20 @@
 ![Banner Image](https://my-banner-image-link.com)
 
-# 👋 Hi, I'm Abu Bakkar Siddik
-### 🚀 Frontend Developer | Aspiring Full Stack Engineer
+<h1 align="center">👋 Hi, I'm Abu Bakkar Siddik</h1>
+<h3 align="center">🚀 Frontend Developer | Aspiring Full Stack Engineer</h3>
 
-📍 **Location:** Bangladesh  
-📧 **Email:** mdabubakkars182@gmail.com  
-📞 **Contact:** +8801961849643  
+<p align="center">
+  📍 <strong>Location:</strong> Bangladesh &nbsp;•&nbsp;
+  📧 <strong>Email:</strong> mdabubakkars182@gmail.com &nbsp;•&nbsp;
+  📞 <strong>Contact:</strong> +8801961849643
+</p>
 
-## 🚀 About Me
-I am a passionate **Frontend Developer** with 1.5+ years of experience, specializing in **React.js, JavaScript, Tailwind CSS, and Bootstrap**. I enjoy building user-friendly and high-performance web applications. Currently, I am expanding my expertise in **backend development** to become a full-stack engineer. I thrive on solving real-world problems through clean and efficient code.
+---
+
+## 🚀 About Me  
+Hi there! I'm **Abu Bakkar Siddik**, a passionate **Frontend Developer** with expertise in **React.js, JavaScript, and UI/UX**. My focus is on building high-performance, user-friendly web applications. Currently, I am on a journey to master **backend development (MERN stack)** to transition into a **Full Stack Engineer**.
+
+---
 
 ## 🔥 What I'm Working On
 - ⚡ Exploring **Next.js** and backend technologies.
@@ -33,19 +39,48 @@ I am a passionate **Frontend Developer** with 1.5+ years of experience, speciali
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abu-bakkar-siddik-024a72269)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abubakkar-js-dev)
+
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakkar-js-dev&theme=react" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abubakkar-js-dev&show_icons=true&theme=react" alt="GitHub Contributions" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar-js-dev&layout=compact&theme=react" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Skills & Expertise
+🔹 **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, DaisyUI  
+🔹 **Backend:** Node.js, Express.js, MongoDB, Firebase  
+🔹 **API Handling:** REST API, Firebase Authentication  
+🔹 **Tools:** Git, GitHub, VS Code, Figma  
+🔹 **Soft Skills:** Problem-solving, Teamwork, Communication  
+
+---
+
+---
 
 ## 📌 Pinned Repositories
-🔹 [**Eco-Adventure Travel Blog**](https://github.com/abubakkar-js-dev/eco-adventure-blog)  
-🔹 [**Gadget E-commerce Website**](https://github.com/abubakkar-js-dev/gadget-haven)  
-🔹 [**TaskBros - Electric Repair Service**](https://github.com/abubakkar-js-dev/taskBros)  
-🔹 [**Do & Earn - Micro Task Earning Platform**](https://github.com/abubakkar-js-dev/do-and-earn)
+📌 [**Gadget E-commerce Website**](https://github.com/abubakkar-js-dev/Gadget-heaven)  
+📌 [**CineNest Movie Sharing Platform**](https://github.com/abubakkar-js-dev/cineNest-client)  
+📌 [**TaskBros - Electric Repair Service**](https://github.com/abubakkar-js-dev/TaskBros-client)  
+📌 [**Do & Earn - Micro Task Earning Platform**](https://github.com/abubakkar-js-dev/do-and-earn-client)  
+
+---
 
 
 

@@ -1,4 +1,6 @@
-![Banner Image](https://https://i.ibb.co.com/JFxDfMDV/abu-bakkar-ss2.png)
+<div align="center">
+  <img height="360" src="https://i.ibb.co.com/JFxDfMDV/abu-bakkar-ss2.png"  />
+</div>
 
 <h1 align="center">👋 Hi, I'm Abu Bakkar Siddik</h1>
 <h3 align="center">🚀 Frontend Developer | Aspiring Full Stack Engineer</h3>

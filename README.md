@@ -84,7 +84,7 @@ Hi there! I'm **Abu Bakkar Siddik**, a passionate **Frontend Developer** with ex
 
 ---
 
-## 📌 Repository Details (For Each Pinned Repository)
+## 📌 Repository Details (Each Pinned Repository)
 
 ---
 

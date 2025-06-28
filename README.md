@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.ibb.co/bg4f5q8c/banner-me-2.png" alt="banner-me-2" border="0">
+  <img height="500" src="https://i.ibb.co/bg4f5q8c/banner-me-2.png" alt="banner-me-2" border="0" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Abu Bakkar Siddik</h1>
